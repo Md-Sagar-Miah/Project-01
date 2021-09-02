@@ -1,0 +1,131 @@
+* {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.background {
+   background-color: rgba(138, 182, 81, 0.76);
+}
+.brand-title {
+   float: left;
+   padding: 6px;
+   height: 68px;
+   background-color: #d54346;
+}
+.sizing-brand {
+   margin-top: 12px;
+   color: #ffff;
+}
+.sizing-brand-second {
+   padding-top: 12px;
+}
+.style-nav .nav-link {
+   background-color: #d54346;
+   border-radius: 5px;
+}
+.style-nav .nav-link:hover {
+   background-color: crimson;
+}
+.btn-custom {
+   background: #d54346;
+}
+.search-bar-sizing {
+   margin-top: -52px;
+}
+.header-bottom {
+   width: 100%;
+   border-bottom: 1px solid #dddddd;
+   overflow: hidden;
+   padding-top: 40px;
+}
+.slider {
+   margin-top: 15px;
+   border: 3px dotted #d54346;
+   border-radius: 15px;
+   overflow: hidden;
+}
+.slide-level-colour {
+   color: white;
+   font-weight: bold;
+}
+.faF-css:hover {
+   color: blue;
+}
+.faT-css:hover {
+   color: #5da9dd;
+}
+.faG-css:hover {
+   color: #da4c3f;
+}
+.faL-css:hover {
+   color: #0077b5;
+}
+div .brdr {
+   padding: 2px;
+}
+.profils .row .profile-link {
+   color: #d54346;
+   text-decoration: none;
+}
+.profils .row img {
+   width: 150px;
+   height: 150px;
+   transition: 3s;
+}
+.profils .row img:hover {
+   transform: rotate(360deg);
+}
+.profils p {
+   color: grey;
+}
+.profils {
+   border-bottom: 2px dotted #d54346;
+   padding-bottom: 10px;
+}
+
+.row h1 .projets-link {
+   text-decoration: none;
+   color: #d54346;
+}
+.row h1 .projets-link:hover {
+   color: crimson;
+}
+.row h1 :hover {
+   transform: scale(1.1);
+}
+.row .style-projects img {
+   height: 150px;
+   padding: 5px;
+   width: auto;
+   transition: 2s;
+}
+.row .style-projects img:hover {
+   transform: rotateY(180deg);
+}
+.row .style-projects .tittle {
+   color: #d54346;
+}
+.btn-custom:hover {
+   background-color: crimson;
+   color: white;
+}
+.background-footer{
+   background: #d54346;
+   border-top: 3px solid #871F21;
+}
+footer .row h4,h5,a,p{
+   color: #dddddd;
+   padding: 5px;
+
+}
+footer .row a:hover{
+   color: black;
+}
+footer .row input{
+   padding:3px;
+   margin-top: 2px;
+}
+footer .row .button{
+   background: #871F21;
+}
+footer .row .button:hover{
+   color: white;
+}
